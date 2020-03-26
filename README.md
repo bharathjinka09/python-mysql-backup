@@ -1,2 +1,2 @@
 # python-mysql-backup
-Python script to take db backup and compress the backup file
+Python script to take mysql db backup and compress the backup file
